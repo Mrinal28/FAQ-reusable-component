@@ -1,0 +1,15 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  width: 30vw;
+  height: 100vw;
+  margin: 0 auto;
+}
+
+details{
+  border: 1px solid;
+  padding: 15px;
+  margin-bottom: 15px;
+}
